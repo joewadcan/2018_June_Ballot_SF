@@ -1,6 +1,6 @@
 ## 2018 June Ballot
 
-|[Prop](http://sfgov.org/elections/measures)   | [CA](http://www.cadem.org/vote/2016-ballot-initiatives)/[SF](http://www.sfdemocrats.org/endorsements) Dems  | [BayArea GOP](http://www.bayareagop.com/ca-ballot-measures/)  | [SF Chronicle](http://projects.sfchronicle.com/2016/voter-guide/) | More info  |
+|[Prop](http://sfgov.org/elections/measures)   | [TBD](x)  | [TBD](x)  | [TBD](x) | More info  |
 |:--|:-:|:-:|:-:|:-:|
 | 3 - Regional Measure 3 | :white_check_mark:  | :white_check_mark:  | :white_check_mark:  | [KQED more info](http://elections.kqed.org/measure/2014/info/proposition-51)  |
 | A - Public Utilities Revenue Bonds | :white_check_mark:  |   :white_check_mark:| :white_check_mark:  | [KQED more info](http://elections.kqed.org/measures/2015/info/proposition-52)  |
